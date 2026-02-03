@@ -1,0 +1,20 @@
+# N8N Data
+n8n_data/database.sqlite
+n8n_data/database.sqlite-shm
+n8n_data/database.sqlite-wal
+n8n_data/crash.journal
+
+# Node modules (nếu có)
+node_modules/
+
+# Environment variables
+.env
+.env.local
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
